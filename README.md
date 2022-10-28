@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayvin1244
+- 👋 Hi, I’m @jayvin
 - 👀 I’m interested in Information Technology | cyber security | Ethical Hacking
 - 🌱 I’m currently learning Python | cyber security | Ethical Hacking 
 
