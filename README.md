@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information Technology | cyber security | Ethical Hacking
 - 🌱 I’m currently learning Python | cyber security | Ethical Hacking 
   
-Blogpost : https://them4rksm3n.blogspot.com/
+Blog:https://medium.com/@goheljayvin1244
 
 
 Twitter :  https://twitter.com/home
